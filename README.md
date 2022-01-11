@@ -1,1 +1,1 @@
-stratified_graph_spectra
+Stratified Graph Spectra
